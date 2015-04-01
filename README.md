@@ -2,8 +2,8 @@
 
 Software required:
 
-
 AVR Studio 4.18
+
 Sinaprog
 Winavr
 Realterm or Putty(For Monitoring the system on Computer)
