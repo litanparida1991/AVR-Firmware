@@ -3,12 +3,16 @@
 Software required:
 
 AVR Studio 4.18
-
 Sinaprog
+
 Winavr
+
 Realterm or Putty(For Monitoring the system on Computer)
+
 Proteous (if u need to simulate it virtually)
+
 For burning the chip:
+
 AVR development board .
 ISP Programmer 
 Hardware or Components required
