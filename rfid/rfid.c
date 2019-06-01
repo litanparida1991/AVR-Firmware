@@ -2,10 +2,13 @@
 #include <avr/io.h>
 #include<avr/delay.h>
 #include <compat/deprecated.h>
+
 #define rs PB0
 #define rw PB1
 #define en PB2
 #define dataport PORTA 
+
+char Cmd_Arr[5] = {0x38,0x06,0x0e,0x01,0x08};
 
 void LCD_DisplayString (const unsigned char *string)
 {
@@ -20,6 +23,11 @@ void LCD_init(void)
 	wrcomm(0x0E); //Display on Cursor Blinking
 	wrcomm(0x01);//Cursor at line 1, position 1
 	wrcomm(0x80); //Shift Entire Display To Right
+/*
+	for(int i=0;i<=5;i++){
+		wrcomm(Cmd_Arr[i]);
+	}
+*/
 }
 void wrcomm(unsigned char Command)
 {

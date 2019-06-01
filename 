@@ -1,0 +1,60 @@
+[33mcommit 82f4cc1afbf1240abe7f301915a1f110f2f9cf09[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: LITAN PARIDA <litanparida1991@gmail.com>
+Date:   Wed Apr 1 20:52:25 2015 +0530
+
+    Update README.md
+
+[33mcommit 4e24144f975054c24455ff284f366c067dccf6c2[m
+Author: LITAN PARIDA <litanparida1991@gmail.com>
+Date:   Wed Apr 1 20:48:53 2015 +0530
+
+    Update README.md
+
+[33mcommit b31c43d25b535c4619d09cd9a94ef6b93d8c9397[m
+Author: LITAN PARIDA <litanparida1991@gmail.com>
+Date:   Wed Apr 1 20:48:15 2015 +0530
+
+    Update README.md
+
+[33mcommit b7b66963b885ee66e8f573efa5cccd420ddbe584[m
+Author: LITAN PARIDA <litanparida1991@gmail.com>
+Date:   Wed Apr 1 20:47:35 2015 +0530
+
+    Update README.md
+
+[33mcommit b501fb18136fa1da4d6c8c028a9991db6ee1b3d7[m
+Author: LITAN PARIDA <litanparida1991@gmail.com>
+Date:   Wed Apr 1 20:47:01 2015 +0530
+
+    Update README.md
+
+[33mcommit 52b2791ef718245ad1844dbe8911eb6275d88463[m
+Merge: c7e5768 00861cb
+Author: Surendra <teknotry@gmail.com>
+Date:   Wed Apr 1 20:42:45 2015 +0530
+
+    Merge branch 'master' of https://github.com/litanparida1991/AVR-Firmware
+
+[33mcommit c7e57686fb6ea5d9bc08ae3731e798bf8c6143d5[m
+Author: Surendra <teknotry@gmail.com>
+Date:   Wed Apr 1 20:40:47 2015 +0530
+
+    first commit
+
+[33mcommit 00861cb00fd9ddbd99b5c3e40fe97f7a70a37139[m
+Author: LITAN PARIDA <litanparida1991@gmail.com>
+Date:   Wed Apr 1 20:38:12 2015 +0530
+
+    Delete RFID based security system
+
+[33mcommit f0feaaa0f5228e4a7cc2dc27951d401610afc8b2[m
+Author: LITAN PARIDA <litanparida1991@gmail.com>
+Date:   Wed Apr 1 20:37:44 2015 +0530
+
+    Create RFID based security system
+
+[33mcommit e9d5f894fc8992b1f5a48bdb65074b55886de48b[m
+Author: LITAN PARIDA <litanparida1991@gmail.com>
+Date:   Wed Apr 1 20:26:35 2015 +0530
+
+    Initial commit
